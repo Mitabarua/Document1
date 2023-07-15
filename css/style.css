@@ -1,0 +1,14 @@
+/*common css start*/
+body{
+	font-family: sans-sarif;
+	font-size:16px;
+	font-weight: 400;
+	color:#29273F ;
+}
+header{}
+.menu{
+	margin:0 auto;
+	width:50%;
+}
+
+/*common css end/*
